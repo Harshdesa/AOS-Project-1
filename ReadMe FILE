@@ -1,0 +1,28 @@
+Exexution Instructions :
+
+1. Copy the following classes in your Home directory. 
+	a. Node.class
+	b. ServerT.class
+	c. ClientT.class
+
+2. Copy the following script files in your Home directory.
+	a.launchs.sh
+	b.cleanup.sh
+	c.Config
+
+3. From cslinux1, enter the following command : 
+
+	sh launchs.sh 
+
+4. After the execution ends, enter the following command :
+	 
+	sh cleanup.sh 
+
+
+Details : 
+
+1. Project1 is complete. 
+
+2. Implemented using SCTP. 
+
+3. Is propoerly documented
